@@ -2,7 +2,7 @@ var intento = 0
 var endgame = false
 var acertados = 0
 var modoOscuro = false
-var listaPalabras = ["PERRO","GATO","TORTUGA","GAVIOTA","LEON","VIVORA","PAJARO","MAMUT"];
+var listaPalabras = ["MISIONES","ARGENTINA","ALURA","ORACLE","PROGRAMACION","JAVA","LOGICA","JAVASCRIPT","DISCORD","TRELLO","FIGMA","SKILLS","SCIENCE"];
 
 
 
@@ -295,7 +295,3 @@ cancel.addEventListener('click', function () {
     menu.classList.add("menu");
 
 });
-
-
-
-  
